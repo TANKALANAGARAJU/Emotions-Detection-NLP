@@ -137,6 +137,12 @@ def main():
           - Brand monitoring and reputation management
           - Content analysis and recommendation systems
           """)
+        st.subheader("Copyright and Licensing")
+        st.write("© 2023 Emotion Detection in Text. All rights reserved. This application is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this software in accordance with the terms of the license.")    
+        st.write("For any inquiries or support, please contact us at [tankalakrishna84@gmai.com]")
+
+
+         st.markdown("##### Tankala Nagaraju"
 
 
 if __name__ == '__main__':
